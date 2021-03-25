@@ -24,7 +24,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             new Question(R.string.question_religion,true),
             new Question(R.string.question_government,false),
             new Question(R.string.question_government_feds,false),
-            new Question(R.string.question_government_senators,true)
+            new Question(R.string.question_government_senators,true),
+            new Question(R.string.rohit_sharma,true)
 
     };
 
